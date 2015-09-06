@@ -1,0 +1,27 @@
+{
+  "maxerr": 99999,
+
+  "esnext": true,
+  "bitwise": true,
+  "curly": true,
+  "eqeqeq": true,
+  "latedef": false,
+  "noarg": true,
+  "undef": true,
+  "unused": true,
+  "validthis": true,
+  "jasmine": true,
+
+  "forin": true,
+  "freeze": true,
+  "futurehostile": true,
+  "nonbsp": true,
+  "shadow": true,
+  "strict": true,
+
+  "globals": {
+    "angular": false,
+    "inject": false,
+    "module": false
+  }
+}
