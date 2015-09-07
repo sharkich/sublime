@@ -1,3 +1,11 @@
+/*
+Cmnd + D : Select WORD + next word
+Cmnd + G : Select word, next word
+Cmnd + Cntrl + G : Select All WORD
+Cmnd + Shift + D : Dublicate line (select)
+
+ */
+
 var installedPlugins = [
     // from http://www.instantshift.com/2015/08/10/sublime-text-plugins/
     {
